@@ -222,6 +222,7 @@ main {
     width: min(1500px, 100%);
     position: relative;
     left: 50%;
+    transform: translate(-50%);
   
 }
 
